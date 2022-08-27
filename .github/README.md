@@ -1,6 +1,6 @@
 ## mountain nvchad
 
-My chadder & bloated nvchad fork design to match the theme of my [dotfiles](https://github.com/riyuzenn/dotfiles)
+My chadder & bloated nvchad fork, design to match the theme of my [dotfiles](https://github.com/riyuzenn/dotfiles)
    
 
 <div>
